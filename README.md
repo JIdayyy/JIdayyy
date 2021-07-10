@@ -19,7 +19,7 @@
 
 const Julien = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript","html","css", { ... rest}],
+    code: [Javascript,Typescript,html,css, { ... rest}],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         backEnd: {
