@@ -32,7 +32,7 @@ const Julien = {
         mobileApp: {
             native: ["React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Amplication", "Amplify"],
+        devOps: ["AWS", "Docker🐳", "Amplication"],
         databases: ["Heroku", "MySql", "postgres","prisma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
