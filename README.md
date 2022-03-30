@@ -27,7 +27,7 @@ const Julien = {
         },
         frontEnd: {
             js: ["React", "Next"],
-            css: ["Tailwind"]
+            css: ["Tailwind","Chakra UI","Material UI","Vanilla"]
         },
         mobileApp: {
             native: ["React Native"]
@@ -35,7 +35,7 @@ const Julien = {
         devOps: ["AWS", "Docker🐳", "Amplication"],
         databases: ["Heroku", "MySql", "postgres","prisma"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture","Micro Services", "Progressive web applications", "Single page applications"],
     currentFocus: "React/NodeJs - Typescript - FullStackApp",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
