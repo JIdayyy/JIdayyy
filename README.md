@@ -19,20 +19,20 @@
 
 const Julien = {
     pronouns: "He" | "Him",
-    code: [Javascript,Typescript,html,css],
+    code: [Javascript,Typescript],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         backEnd: {
-            js: ["node", "express", "next"],
+          js: ["node", "express", "next"],
         },
         frontEnd: {
             js: ["React", "Next"],
-            css: ["Tailwind","Chakra UI","Material UI","Vanilla"]
+            style: ["Tailwind","Chakra UI","Material UI","Vanilla"]
         },
         mobileApp: {
             native: ["React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Amplication"],
+        devOps: ["AWS", "Docker🐳", "Amplication","Gitlab","CI/CD"],
         databases: ["Heroku", "MySql", "postgres","prisma"]
     },
     architecture: ["Serverless Architecture","Micro Services", "Progressive web applications", "Single page applications"],
