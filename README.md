@@ -43,13 +43,14 @@ const Julien = {
 
 
 
-
+<!---
 [comment]: <> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIdayyy&count_private=true&show_icons=true&theme=yeblu)
 
 [comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIdayyy&theme=yeblu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [comment]: <> [![Profile badge](https://www.codewars.com/users/Jidayyy/badges/large)](https://www.codewars.com/users/Jidayyy)
 
+-->
 
 
 
