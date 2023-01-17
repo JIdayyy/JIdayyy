@@ -44,7 +44,7 @@ const Julien = {
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIdayyy&count_private=true&show_icons=true&theme=yeblu
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=JIdayyy&count_private=true&show_icons=true&theme=yeblu](https://github-readme-stats.vercel.app/api?username=JIdayyy&count_private=true&show_icons=true&theme=yeblu)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIdayyy&theme=yeblu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
