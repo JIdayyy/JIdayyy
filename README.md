@@ -20,23 +20,23 @@
 const Julien = {
     pronouns: "He" | "Him",
     code: [Javascript,Typescript],
-    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    askMeAbout: ["web dev", "tech", "app dev", "music","sport"],
     technologies: {
         backEnd: {
-          js: ["node", "express", "next"],
+          js: ["node", "express", "nest"],
         },
         frontEnd: {
-            js: ["React", "Next"],
+            js: ["React", "Next", "Remix"],
             style: ["Tailwind","Chakra UI","Material UI","Vanilla"]
         },
         mobileApp: {
             native: ["React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Amplication","Gitlab","CI/CD"],
-        databases: ["Heroku", "MySql", "postgres","prisma"]
+        devOps: ["AWS", "Docker🐳", "Amplication", "Gitlab", "CI/CD"],
+        databases: ["Heroku", "MySql", "postgres", "prisma", "mongo"]
     },
-    architecture: ["Serverless Architecture","Micro Services", "Progressive web applications", "Single page applications"],
-    currentFocus: "React/NodeJs - Typescript - FullStackApp",
+    architecture: ["Serverless Architecture", "Micro Services", "Progressive web applications", "Single page applications"],
+    currentFocus: "Golang",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
