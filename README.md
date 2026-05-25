@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julien 👋</h1>
 
 <p align="center">
-  <em>Software engineer · Fullstack JavaScript/TypeScript · Based in the French Basque Country 🌊</em>
+  <em>Senior software engineer · Moving into AI engineering · French Basque Country 🌊</em>
 </p>
 
 <p align="center">
@@ -13,15 +13,17 @@
 
 ### 🚀 About me
 
-I'm a software engineer with ~5 years of professional experience, currently building **OTT and sports media platforms** at [Origins Digital](https://origins-digital.com) (AC Milan, Stadium, and others) from Biarritz.
+Senior software engineer with ~5 years building production fullstack applications at scale — currently shipping **OTT and live-sports platforms** at [Origins Digital](https://origins-digital.com) (AC Milan, Stadium, and more) from Biarritz. I'm comfortable across the stack: TypeScript everywhere, NestJS/Fastify on the backend, Next.js/React on the front, microservices on Kubernetes, the full delivery pipeline.
 
-I came to code the long way around — industrial automation, quality control in aerospace, and three years as a mountain infantry soldier in the Alpine Chasseurs — before going self-taught, then formalising things at Wild Code School in 2021. That detour shapes how I work: pragmatic, calm under pressure, allergic to over-engineering.
+I came to code the long way around — industrial automation, quality control in aerospace, three years as a mountain infantry soldier in the Alpine Chasseurs — before going self-taught, then formalising at Wild Code School in 2021. That detour shapes how I work: pragmatic, calm under pressure, allergic to over-engineering.
 
-I also spent a year teaching JavaScript and leading student projects at Wild Code School, which is still the fastest way I've found to learn things deeply.
+**The next chapter is AI engineering.** After half a decade shipping JS/TS at scale, I'm channeling that experience into LLM-powered products — agents, RAG pipelines, structured generation, prompt-driven workflows. The fundamentals don't change: ship things that work, instrument them, iterate.
 
-### 🛠️ Stack I work with daily
+### 🛠️ Stack
 
-**Languages** &nbsp;·&nbsp; TypeScript · JavaScript · Node.js
+**Core** &nbsp;·&nbsp; TypeScript · JavaScript · Node.js · Python
+
+**AI / LLM** &nbsp;·&nbsp; Claude (Anthropic) · OpenAI · Vercel AI SDK · LangChain · LlamaIndex · structured outputs · function calling · RAG
 
 **Backend** &nbsp;·&nbsp; NestJS · Fastify · Express · REST · GraphQL · microservices
 
@@ -31,11 +33,12 @@ I also spent a year teaching JavaScript and leading student projects at Wild Cod
 
 **Cloud & CI** &nbsp;·&nbsp; AWS · GitLab CI · GitHub Actions · Jenkins
 
-### 🎯 Currently into
+### 🧪 Currently exploring
 
-- Building scalable video/streaming pipelines for live sports
-- Sharpening my backend architecture chops (event-driven, queue patterns)
-- Keeping an eye on Go and Rust on the side
+- LLM agents and tool-use orchestration with Claude + OpenAI
+- RAG systems with proper evals (not just vibes)
+- AI-augmented developer workflows (Claude Code, custom agents)
+- Bringing AI features into production-grade OTT/streaming platforms
 
 ### 🎵 Off-keyboard
 
@@ -54,4 +57,4 @@ When I'm not coding you'll find me playing music, training, or fishing somewhere
   <a href="https://www.codewars.com/users/Jidayyy"><img src="https://www.codewars.com/users/Jidayyy/badges/large" alt="CodeWars badge"></a>
 </p>
 
-<p align="center"><sub>Open to interesting conversations — DMs open on LinkedIn.</sub></p>
+<p align="center"><sub>Open to interesting AI / product / engineering conversations — DMs open on LinkedIn.</sub></p>
